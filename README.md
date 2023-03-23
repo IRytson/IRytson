@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑‍💻 About Me:
 No momento estou cursando Sistema da informação , <br>tenho o curso técnico em informática e estou em busca de <br>estagio para que possa desenvolver cada vez mais meus conhecimentos <br>na área e crescer junto com a empresa .
 
 
