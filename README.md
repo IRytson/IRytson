@@ -1,5 +1,5 @@
 # 🧑‍💻 About Me:
-Sou bacharel em Sistemas de Informação e possuo formação técnica em Informática. Busco uma oportunidade de emprego para aplicar e expandir meus conhecimentos na área, contribuindo ativamente para o crescimento da empresa com dedicação e comprometimento. .
+Sou bacharel em Sistemas de Informação e possuo formação técnica em Informática. Busco uma oportunidade de emprego para aplicar e expandir meus conhecimentos na área, contribuindo ativamente para o crescimento da empresa com dedicação e comprometimento. 🧑‍💻 
 
 
 # 💻 Tech Stack:
