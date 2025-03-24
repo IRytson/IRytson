@@ -1,5 +1,5 @@
 # 🧑‍💻 About Me:
-No momento estou cursando Sistema da informação , <br>tenho o curso técnico em informática e estou em busca de <br>estagio para que possa desenvolver cada vez mais meus conhecimentos <br>na área e crescer junto com a empresa .
+Sou bacharel em Sistemas de Informação e possuo formação técnica em Informática. Busco uma oportunidade de emprego para aplicar e expandir meus conhecimentos na área, contribuindo ativamente para o crescimento da empresa com dedicação e comprometimento. .
 
 
 # 💻 Tech Stack:
